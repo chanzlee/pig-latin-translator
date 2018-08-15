@@ -19,14 +19,13 @@ _.This webpage suggest the best track in Epicodus in response to users answers. 
 | Spec | Input | Output |
 | :-------------     | :------------- | :------------- |
 | **The program does nothing to non-alphabetical characters, since they do not contain consonants or vowels.** | Input: "3" | Output: "3" |
-| **The program adds "way" to the end of multi-letter words beginning with a vowel.** | Input: "igloo" | Output: "iglooway" |
-| **If the word begins with "y", the program moves "y" to the end and adds "ay"** | Input: "yield" | Output: "ieldyay" |
+| **The program returns other specs regardless of capitalization** | Input: "chICken" | output: "ickenchay" |
 | **The program moves the first letter of a single word beginning with a single consonant to the end and adds "ay"** | Input: "consonant" | Output: "onsonantcay" |
 | **The program moves all consonants before the first vowel of a single word to the end and adds "ay"**| Input: "program" | Output: "ogrampray"|
-| **If the word begins with "q", the program moves "q" plus the following vowel to the end of the word and adds "ay"** | Input: "quit" | Output: "itquay" |
+| **If the word begins with "y", the program moves "y" to the end and adds "ay"** | Input: "yield" | Output: "ieldyay" |
+| **The program adds "way" to the end of multi-letter words beginning with a vowel.** | Input: "igloo" | Output: "iglooway" |
 | **If the first consonant start with "q" followed by "u", move the "qu", and adds "ay" to the end** | Input: "squeal" | Output: "ealsquay" |
-| **The program returns other specs regardless of capitalization** | Input: "chICken" | output: "ickenchay" |
-| **The program returns other specs for multiple-word inputs** | Input: "I eat the quick yellow chicken" | Output: "iay eatway ethay ickquay ellowyay ickenchay" |
+| **The program returns other specs for multiple-word inputs** | Input: "I eat the chicken teriyaki" | Output: "iay eatway ethay ickenchay eriyakitay" |
 
 
 ## Known Bugs
@@ -43,4 +42,4 @@ _HTML, CSS, javaScript, jQuery, Bootstrap_
 
 ### License
 
-Copyright (c) 2018 **_Chan Lee_&_Kenneth_Du_** 
+Copyright (c) 2018 **_Chan Lee_&_Kenneth_Du_**

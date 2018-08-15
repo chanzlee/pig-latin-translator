@@ -9,4 +9,24 @@ $(document).ready(function(){
 
 });
 
-var vowels = ["a", "e", "i", "o", "u", "y"]
+var vowels = ["a", "e", "i", "o", "u"];
+
+var translation = function(words) {
+  return ("invalid");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+};
