@@ -1,6 +1,6 @@
 # _Pig Latin Translator_
 
-#### _Html/CSS/jQuery Loop Exercise for Epicodus, 08.10.2018_
+#### _Html/CSS/jQuery Loop Exercise for Epicodus, 08.15.2018_
 
 #### By _**Chan Lee, Kenneth Du**_
 
@@ -35,7 +35,7 @@ _There are no known bugs._
 
 ## Support and contact details
 
-_ChanEthanLee@gmail.com_
+_ChanEthanLee@gmail.com, kennethdu3@gmail.com_
 
 ## Technologies Used
 
@@ -43,4 +43,4 @@ _HTML, CSS, javaScript, jQuery, Bootstrap_
 
 ### License
 
-Copyright (c) 2018 **_Chan Lee_**
+Copyright (c) 2018 **_Chan Lee_&_Kenneth_Du_** 
