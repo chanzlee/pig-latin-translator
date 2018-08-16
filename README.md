@@ -26,6 +26,7 @@ _.This webpage suggest the best track in Epicodus in response to users answers. 
 | **The program adds "way" to the end of multi-letter words beginning with a vowel.** | Input: "igloo" | Output: "iglooway" |
 | **If the first consonant start with "q" followed by "u", move the "qu", and adds "ay" to the end** | Input: "squeal" | Output: "ealsquay" |
 | **The program returns other specs for multiple-word inputs** | Input: "I eat the chicken teriyaki" | Output: "iay eatway ethay ickenchay eriyakitay" |
+| **The program returns the first character of word to be capitalized** | Input: "chicken" | Output: "Ickenchay" |
 
 
 ## Known Bugs
